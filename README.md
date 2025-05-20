@@ -1,4 +1,31 @@
-# Project Setup & Running Guide
+# 🏁 F1 Winner Prediction API
+
+Welcome to the **F1 Winner Prediction API**!  
+This project offers a powerful RESTful API that predicts the winners of upcoming Formula 1 races using advanced statistical models and historical race data. Whether you're an F1 fan, data enthusiast, or analyst, this Spring Boot application provides accurate, data-driven insights to enhance your race experience.
+
+---
+
+## 🎯 Key Features
+
+- **Accurate Predictions:** Leverages years of F1 data and machine learning for reliable race forecasts.
+- **RESTful API:** Easy-to-use endpoints for integrating predictions into your apps or dashboards.
+- **Customizable Models:** Tune and extend prediction logic for your own use cases.
+- **Open Source:** Contribute, fork, or adapt for your own F1 analytics projects.
+
+---
+
+## 🌟 Why Use This API?
+
+- **Stay Ahead:** Get insights before every race.
+- **Engage Fans:** Build apps, widgets, or bots with real-time predictions.
+- **Analyze Trends:** Explore historical performance and prediction accuracy.
+
+---
+
+> **Ready to get started?**  
+> Follow the setup and running guide below to launch your own F1 prediction engine!
+
+---
 
 Welcome to the project! Follow these steps to set up and run the Spring Boot application.
 
