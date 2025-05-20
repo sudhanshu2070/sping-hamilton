@@ -1,7 +1,7 @@
 # 🏁 F1 Winner Prediction API
 
 Welcome to the **F1 Winner Prediction API**!  
-This project offers a powerful RESTful API that predicts the winners of upcoming Formula 1 races using advanced statistical models and historical race data. Whether you're an F1 fan, data enthusiast, or analyst, this Spring Boot application provides accurate, data-driven insights to enhance your race experience.
+This project offers a RESTful API that predicts Formula 1 race winners using historical data and advanced models. Ideal for F1 fans, data scientists, and analysts, it provides accurate, data-driven race forecasts.
 
 ---
 
