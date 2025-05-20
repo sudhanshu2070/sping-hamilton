@@ -1,9 +1,11 @@
 package com.example.lhf1.dto;
 
-import java.util.List;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
+import java.util.List;
 
 @Data
 public class RaceTable {
-    private List<Race> Races;
+    @JsonProperty("Races")
+    private List<Race> races;
 }
