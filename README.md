@@ -20,16 +20,13 @@ This project offers a powerful RESTful API that predicts the winners of upcoming
 - **Engage Fans:** Build apps, widgets, or bots with real-time predictions.
 - **Analyze Trends:** Explore historical performance and prediction accuracy.
 
----
+## 🛠️ Tools & Technologies Used
 
-> **Ready to get started?**  
-> Follow the setup and running guide below to launch your own F1 prediction engine!
+- **Modern Tech Stack:** Built with Java 17, Spring Boot, and Maven for robust, scalable, and maintainable development.
+- **Ecosystem Integration:** Easily integrates with CI/CD tools, Docker, and cloud platforms for deployment and automation.
+- **Open Standards:** Utilizes RESTful APIs and industry best practices for interoperability and extensibility.
+- **Developer Friendly:** Clear project structure, comprehensive documentation, and active community support.
 
----
-
-Welcome to the project! Follow these steps to set up and run the Spring Boot application.
-
----
 
 ## 🚀 Prerequisites
 
