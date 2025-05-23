@@ -86,11 +86,14 @@ This project offers a RESTful API that predicts Formula 1 race winners using his
 ├── src/
 │   ├── main/
 │   │   ├── java/
+│   │   │   ├── controllers/
+│   │   │   └── services/
 │   │   └── resources/
 │   │       └── application.properties
 │   └── test/
 ├── pom.xml
 └── README.md
+```
 ```
 
 ---
